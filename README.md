@@ -1,15 +1,16 @@
 
-
+<p align=center>
   <img src="Imagenes/Portada.png" alt="alt text" width="800" style="display: block; margin: auto;"/>
+  
 
   <h1
-
+<p align=center>
   <h1 align="center">EQUIPO DE TRABAJO </h1>
-
+<p align=center>
   <img src="Imagenes/Equipo.png" alt="alt text" width="600" style="display: block; margin: auto;"/> </h1>
-
+<p align=center>
   <h1 align="center">ESQUEMA GENERAL DEL PROYECTO </h1>
-
+<p align=center>
 <img src="Imagenes/ESQUEMA DE TRABAJO negro.png" alt="alt text" width="600" style="display: block; margin: auto;"/>
 
 <hr>  
@@ -18,6 +19,7 @@
 
 Guayaba es una plataforma web diseñada para brindar servicios de gráficos de análisis técnico a traders e inversores en el mercado financiero mediante una amplia base de datos. Permite incorporar indicadores, analizar tendencias y visualizar métricas de cualquier activo financiero, accesible a usuarios novatos como a integraciones en brokers, exchanges y fondos de inversión.
 
+<p align=center>
 <img src="Imagenes/Logo.jpg" alt="alt text" width="300" style="display: block; margin: auto;"/>
 
  **Análisis Técnico Avanzado:**
@@ -67,10 +69,6 @@ Se pretende ofrecer distintos paquetes para satisfacer las necesidades de los us
 
 Diseñado y desarrollado en Argentina, Guayaba permite adoptar las cotizaciones de activos locales e incorporar las variables circunstanciales de la macroeconomía.
 
-
-
-
-
 ## **Datasets**
 
 Se trabajó con pares BTC-USD, GLD-USD y S&P500PX-USD. Los archivos iniciales se descargaron en formato CSV desde la página de [Yahoo Finanzas](https://es.finance.yahoo.com/) y estan disponibles en la carpeta Data Cruda del repositorio.
@@ -97,10 +95,12 @@ Los archivos contienen las columnas: Date, Open, High, Low, Close, Adj Close, Vo
 
 Se analizó la estructura de los datasets, cantidad de filas y columnas, tipos de datos, datos nulos, duplicados, relacion entre los mismos, variables descriptivas, etc. Los archivos resultantes se exportaron y guardaron en formato CSV.
 
+<p align=center>
 <img src="Imagenes/Dispersion.png" alt="alt text" width="500" style="display: block; margin: auto;"/>
 
 </p>
 
+<p align=center>
 <img src="Imagenes/Price.png" alt="alt text" width="500" style="display: block; margin: auto;"/>
 
 </p>
