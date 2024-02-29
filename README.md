@@ -111,11 +111,7 @@ El EDA y ETL realizados se puede consultar en el repositorio.
 
 ## **Visualización de los Resultados (Power BI)**
 
-Con la creación de un dashboard de Power BI se realizó el análisis integral y visualización de los datos. Con una interfaz intuitiva y capacidades avanzadas de análisis, esta herramienta facilita la creación de paneles interactivos y visualizaciones para la toma de decisiones informadas y colaboración en tiempo real.
-
-## **Modelo de Machine Learning**
-
-Se utilizó Power BI como herramienta integral de análisis y visualización de datos que permite conectar, modelar y visualizar información desde diversas fuentes, con una interfaz intuitiva y capacidades avanzadas de análisis, facilitando la creación de paneles interactivos y visualizaciones impactantes para la toma de decisiones informadas y colaboración en tiempo real. 
+Con la creación de un dashboard de Power BI se realizó el análisis integral y visualización de los datos. Con una interfaz intuitiva y capacidades avanzadas de análisis, esta herramienta facilita la creación de paneles interactivos y visualizaciones para la toma de decisiones informadas y colaboración en tiempo real. 
 
 ## **Modelo de Machine Learning**
 
