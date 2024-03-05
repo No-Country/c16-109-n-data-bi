@@ -121,7 +121,7 @@ Contexto del proyecto: El proyecto simula un entorno real de trabajo en el depar
 
 ## **Pagina Web y Móvil**
 
-La web de Guayaba fue creada con la aplicación *Durable*, en formatos desktop, tablet y móvil. También contiene links a los dashboards y perfiles del equipo.
+La web de Guayaba es un proyecto desarrollado utilizando la aplicación Durable, diseñada para ofrecer una experiencia óptima en múltiples dispositivos, incluyendo escritorio, tablet y móvil. Este proyecto fue creado con el objetivo de proporcionar una plataforma accesible y funcional para los usuarios. También contiene links a los dashboards y perfiles del equipo.
 [Link ](https://guayaba.mydurable.com/es)
 
 ## **Conclusiones**
