@@ -119,6 +119,11 @@ Con el uso de modelos de Machine Learning se desarrolló un modelo predictivo me
 
 Contexto del proyecto: El proyecto simula un entorno real de trabajo en el departamento de Data de una empresa, lo que sugiere que el objetivo es aplicar técnicas de análisis de datos para obtener información útil para la toma de decisiones.
 
+## **Pagina Web y Móvil**
+
+La web de Guayaba fue creada con la aplicación *Durable*, en formatos desktop, tablet y móvil. También contiene links a los dashboards y perfiles del equipo.
+[Link ](https://guayaba.mydurable.com/es)
+
 ## **Conclusiones**
 
 Se trabajó con tres pares de datos financieros: BTC-USD, GLD-USD y S&P500SPX-USD descargados desde Yahoo Finanzas. Se utilizaron diversas tecnologías y herramientas, incluyendo Python, NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, Excel, Power BI y Machine Learning para llevar a cabo el proyecto y realizar un análisis exhaustivo de los datasets para comprender su estructura, calidad y relaciones entre variables. 
