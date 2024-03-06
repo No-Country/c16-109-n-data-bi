@@ -87,7 +87,9 @@ Los archivos contienen las columnas: Date, Open, High, Low, Close, Adj Close, Vo
 <a href="#"><img src="https://img.shields.io/badge/Seaborn-013243?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn Badge" style="border-radius: 35px; background-color: #8A2BE2"></a>
 <a href="#"><img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel Badge" style="border-radius: 45px; background-color: #00FF7F"></a>
 <a href="#"><img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white" alt="Power BI Badge" style="border-radius: 50px; background-color: #FFA500"></a>
-<a href="#"><img src="https://img.shields.io/badge/Machine%20Learning-FFA500?style=for-the-badge&logo=machine-learning&logoColor=white" alt="Machine Learning Badge" style="border-radius: 50px; background-color: #FFA500"></a>
+<a href="#"><img src="https://img.shields.io/badge/Machine%20Learning-FFA500?style=for-the-badge&logo=machine-learning&logoColor=white" alt="Machine Learning Badge" style="border-radius: 50px; background-color: #FFA500"></a> <a href="#"><img src="https://img.shields.io/badge/Durable-FF6347?style=for-the-badge&logo=durable&logoColor=white" alt="Durable Badge" style="border-radius: 40px; background-color: #808080"></a> <a href="#"><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira Badge" style="border-radius: 40px; background-color: #0052CC"></a>
+
+
 
 
 
@@ -111,7 +113,10 @@ El EDA y ETL realizados se puede consultar en el repositorio.
 
 ## **Visualización de los Resultados (Power BI)**
 
-Con la creación de un dashboard de Power BI se realizó el análisis integral y visualización de los datos. Con una interfaz intuitiva y capacidades avanzadas de análisis, esta herramienta facilita la creación de paneles interactivos y visualizaciones para la toma de decisiones informadas y colaboración en tiempo real. 
+Con la creación de un [dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTY1MTEyZGMtN2M2NC00ZTJmLWIxMjgtOWVmNDBlNWExMjIzIiwidCI6IjZlMGU0MDE3LTgzMzYtNDE5ZC04OWRkLTBlOGM1NmE3NjA4OSJ9) de Power BI se realizó el análisis integral y visualización de los datos. Con una interfaz intuitiva y capacidades avanzadas de análisis, esta herramienta facilita la creación de paneles interactivos y visualizaciones para la toma de decisiones informadas y colaboración en tiempo real. 
+
+<p align=center>
+<img src="Imagenes/Dashboard 1.jpg" alt="alt text" width="700" style="display: block; margin: auto;"/>
 
 ## **Modelo de Machine Learning**
 
@@ -130,10 +135,9 @@ Se trabajó con tres pares de datos financieros: BTC-USD, GLD-USD y S&P500SPX-US
 
 Se utilizó Power BI para crear visualizaciones interactivas y paneles informativos que faciliten la interpretación de los datos y la toma de decisiones y se desarrolló un modelo predictivo utilizando técnicas de Machine Learning para prever tendencias futuras y mejorar la toma de decisiones empresariales. 
 
+Se creó la página web utilizando la aplicación Durable para ofrecer una experiencia óptima en múltiples dispositivos, incluyendo escritorio, tablet y móvil.
+
 ## **Recomendaciones**
-
-
-
 
 Implementar un ciclo de retroalimentación continua para mejorar la efectividad del modelo predictivo y las visualizaciones realizando ajustes y mejoras en función de los comentarios recibidos, las nuevas tendencias en los datos y los cambios en el entorno empresarial. 
 
