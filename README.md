@@ -130,7 +130,7 @@ La web de Guayaba es un proyecto desarrollado utilizando la aplicación Durable,
 [Link ](https://guayaba.mydurable.com/es)
 
 <p align=center>
-<img src="Imagenes/01.jpg" alt="alt text" width="700" style="display: block; margin: auto;"/>
+<img src="Imagenes/01.JPG" alt="alt text" width="700" style="display: block; margin: auto;"/>
 
 ## **Conclusiones**
 
