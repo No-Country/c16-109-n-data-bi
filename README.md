@@ -129,6 +129,9 @@ Contexto del proyecto: El proyecto simula un entorno real de trabajo en el depar
 La web de Guayaba es un proyecto desarrollado utilizando la aplicación Durable, diseñada para ofrecer una experiencia óptima en múltiples dispositivos, incluyendo escritorio, tablet y móvil. Este proyecto fue creado con el objetivo de proporcionar una plataforma accesible y funcional para los usuarios. También contiene links a los dashboards y perfiles del equipo.
 [Link ](https://guayaba.mydurable.com/es)
 
+<p align=center>
+<img src="Imagenes/01.jpg" alt="alt text" width="700" style="display: block; margin: auto;"/>
+
 ## **Conclusiones**
 
 Se trabajó con tres pares de datos financieros: BTC-USD, GLD-USD y S&P500SPX-USD descargados desde Yahoo Finanzas. Se utilizaron diversas tecnologías y herramientas, incluyendo Python, NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, Excel, Power BI y Machine Learning para llevar a cabo el proyecto y realizar un análisis exhaustivo de los datasets para comprender su estructura, calidad y relaciones entre variables. 
